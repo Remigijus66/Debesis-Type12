@@ -1,6 +1,18 @@
 body {
   background-color: brown;
+  font font-family: verdana;
+
 }
-main {
-  color: green;
+h1 {
+ font font-weight: normal;
+ font-size: 3rem
+
+}
+a{
+  color: inherit;
+}
+
+p {
+  text-transform: uppercase;
+  text-align: justify;
 }
