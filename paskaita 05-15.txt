@@ -2,16 +2,18 @@
 2 git linkas https://git-scm.com/
 3 gihub.com pass Matilda2022! nam Remigijus66
 4 https://github.com/Remigijus66/Debesis-Type12
-ls		`list
-ls -a		`list all
-cd (./dirname)	`change dir down
-cd (../)	`change dir up
-mkdir js	`nauja dir (js)
+
+Git komandos 
+ls		```list
+ls -a		```list all
+cd (./dirname)	```change dir down
+cd (../)	```change dir up
+mkdir js	```nauja dir (js)
 git status
-git add	.  	`pradeti saugoti (pazymejus tasku)
-git commit -m "" `(pradeti saugoti )
-git log --online `paziureti okycius 
-git checkout d248f6a 'gryzti i pokycius, kur d24... saugojimo kodas
+git add	.  	```pradeti saugoti (pazymejus tasku)
+git commit -m "" ```(pradeti oti )
+git log --oneline ```paziureti okycius 
+git checkout d248f6a ``gryzti i pokycius, kur d24... saugojimo kodas
 
 git clone (ir nuoroda is hubo) (pradeti is direktorijos kur nori suklonuoti failus is debesies i kita kompa)
 
